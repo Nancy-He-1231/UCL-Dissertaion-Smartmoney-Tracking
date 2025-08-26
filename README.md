@@ -1,6 +1,6 @@
 **Smart Money Detection in DeFi**
 
-This repository contains code and data for identifying genuine "Smart Money" wallets in cryptocurrency markets by combining behavioural finance theory with blockchain analytics. Our framework uses machine learning to distinguish authentic investment expertise from manipulative actors, addressing information asymmetry and market biases in decentralized finance.
+This repository contains code and data for identifying genuine "Smart Money" wallets in cryptocurrency markets by combining behavioural finance theory with blockchain analytics. The framework uses machine learning to distinguish authentic investment expertise from manipulative actors, addressing information asymmetry and market biases in decentralized finance.
 
 **What you'll find:**
 - Complete codebase with detailed documentation
