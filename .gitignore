@@ -12,7 +12,6 @@ venv/
 .venv/
 
 # Data files
-*.csv
 *.pkl
 *.h5
 *.npy
