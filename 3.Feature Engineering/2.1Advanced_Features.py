@@ -689,6 +689,8 @@ def main():
         # Based on your image, but using the actual column names from the script.
         final_columns_to_keep = [
             'wallet_address',
+            'unique_tokens',
+            'avg_trade_size',
             'contrarian_score',
             'fomo_resistance',
             'rationality_confidence',
