@@ -1,0 +1,28 @@
+# Create.gitignore file
+touch .gitignore
+
+echo "# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+
+# Data files
+*.csv
+*.pkl
+*.h5
+*.npy
+*.npz
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo" > .gitignore
